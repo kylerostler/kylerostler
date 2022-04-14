@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**kylerostler/kylerostler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on a personal project that will act as a kanban board for hobbyists.
 
@@ -17,4 +14,3 @@ https://www.linkedin.com/in/kylerostler/
 kylerostler@gmail.com
 
 - ⚡ Fun fact: I am a hobbyist at heart and I love to paint miniatures, I'm into the attention to detail of things.
--->
