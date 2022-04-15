@@ -13,4 +13,4 @@
 https://www.linkedin.com/in/kylerostler/ 
 kylerostler@gmail.com
 
-- ⚡ Fun fact: I am a hobbyist at heart and I love to paint miniatures, I'm into the attention to detail of things.
+- ⚡ Fun fact: I am a hobbyist at heart and I love to paint miniatures, I'm into the attention-to-detail of things.
