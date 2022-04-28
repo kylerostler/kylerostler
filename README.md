@@ -5,9 +5,7 @@ I have finished an intensive, hands-on coding program with Bloomtech institute o
 
 Before my time at Bloomtech I worked as a concrete truck dispatcher, managing customer accounts and driver scheduling. Whether it was talking with customers or helping drivers, I always strive to make sure that they end the call with the satisfaction that the problem will get taken care of.
 
-What else is there to know about me? I love painting miniatures, playing games, and spending time with my loved ones. I aim to combine my hobbies with my technical skills to make a truly unique project, utilizing my skills as a developer.
-
-I am looking to find myself in the tech field as a developer shortly, doing project construction and testing in a company I love. If you want to chat feel free to contact me here or email me.
+I am looking to find myself in the tech field as a developer shortly, doing project construction and testing in a company I love. If you want to chat feel free to contact me on linkedin or email me.
 
 - 🔭 I’m currently working on a personal project that will act as a kanban board for hobbyists.
 
