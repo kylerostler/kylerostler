@@ -3,8 +3,6 @@ I am a Full Stack Web developer with a strong growth mindset and a commitment to
 
 I have finished an intensive, hands-on coding program with Bloomtech institute of technology, focused on learning and creating projects, with over 1000 hours of coding. I love working with my peers on creating new applications together and have made it a personal focus to understand different approaches to solving a problem.
 
-Before my time at Bloomtech I worked as a concrete truck dispatcher, managing customer accounts and driver scheduling. Whether it was talking with customers or helping drivers, I always strive to make sure that they end the call with the satisfaction that the problem will get taken care of.
-
 I am looking to find myself in the tech field as a developer shortly, doing project construction and testing in a company I love. If you want to chat feel free to contact me on linkedin or email me.
 
 - 🔭 I’m currently working on a personal project that will act as a kanban board for hobbyists.
